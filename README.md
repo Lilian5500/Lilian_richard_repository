@@ -34,5 +34,5 @@ Mainly C, some Python, and a bit of Docker.
 
 | | Score |
 |--|-------|
-| TEPITECH | ... |
-| English Dual Diploma | ... |
+| TEPITECH | 825 |
+| English Dual Diploma | honor roll certificate |
