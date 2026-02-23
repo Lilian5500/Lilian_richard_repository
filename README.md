@@ -10,23 +10,23 @@ Mainly C, some Python, and a bit of Docker.
 ### C
 | Project | Description |
 |---------|-------------|
-| secured | ... |
-| mysudo | ... |
-| mytop | ... |
-| mini_shell | ... |
+| secured | Hashing algorithm, data encryption and storage in a hash table |
+| mysudo | Reimplement the sudo command from scratch |
+| mytop | Reimplement the top command from scratch |
+| mini_shell | Reimplement a shell from scratch |
 
 ### Python
 | Project | Description |
 |---------|-------------|
-| 101pong | ... |
-| 102architect | ... |
-| 103cipher | ... |
-| 105demography | ... |
+| 101pong | Math & algorithm exercises |
+| 102architect | Math & algorithm exercises |
+| 103cipher | Math & algorithm exercises |
+| 105demography | Math & algorithm exercises |
 
 ### Docker
 | Project | Description |
 |---------|-------------|
-| popeye | ... |
+| popeye | Set up and manage containers with Docker Compose |
 
 ---
 
